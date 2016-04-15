@@ -1,3 +1,4 @@
+
 {
     "name": "tbbc/money-bundle",
     "type": "symfony-bundle",
@@ -17,18 +18,18 @@
     "require": {
         "php": ">=5.3.3",
         "ext-curl" : "*",
-        "symfony/framework-bundle": "*",
-        "mathiasverraes/money": "*",
-        "symfony/form": "*",
-        "symfony/twig-bundle": "*",
-        "symfony/console": "*",
-        "symfony/dom-crawler": "*"
+        "symfony/framework-bundle": "~2.3",
+        "mathiasverraes/money": "1.2.*",
+        "symfony/form": "~2.3",
+        "symfony/twig-bundle": "~2.3",
+        "symfony/console": "~2.3",
+        "symfony/dom-crawler": "~2.3"
     },
     "require-dev": {
-        "symfony/class-loader": "~2.x",
-        "symfony/yaml": "~2.x",
-        "symfony/finder": "~2.x",
-        "symfony/browser-kit": "~2.x",
+        "symfony/class-loader": "~2.3",
+        "symfony/yaml": "~2.3",
+        "symfony/finder": "~2.3",
+        "symfony/browser-kit": "~2.3",
         "beberlei/DoctrineExtensions": "0.3.*",
         "ext-sqlite3": "*",
         "doctrine/doctrine-bundle": "~1.1",
