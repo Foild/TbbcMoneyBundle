@@ -21,7 +21,7 @@
         "symfony/framework-bundle": "~2.3",
         "mathiasverraes/money": "1.2.*",
         "symfony/form": "~2.3",
-        "symfony/twig-bundle": "~2.3",
+        "symfony/twig-bundle": "~2.3|~3.1",
         "symfony/console": "~2.3",
         "symfony/dom-crawler": "~2.3"
     },
